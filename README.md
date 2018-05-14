@@ -1,3 +1,10 @@
+
+The work is done by a group of four: 
+Tiffany Guo,Task-had Saqif, Caroline Ming, Renjie Li, 
+
+
+Functions of the APP:
+
 the user is able to manage a set of tags independently from any
 images. This tag set should persist through a quit and restart. The user
 doesn't want to type the `@` symbol, although it should appear in tagged image
@@ -26,7 +33,6 @@ The user can have a log of all renaming ever done to all files (old name, new na
 
 When the program is first run, it should create any configuration files that it
 needs, and if they are deleted it should recreate them the next time it is run.
-
 
 
 
